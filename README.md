@@ -1,2 +1,2 @@
- # Python <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg">
+ # Python <img src="https://github.com/Saptarshidas131/Python/blob/main/python-logo.png">
 Repository to keep all Python codes
